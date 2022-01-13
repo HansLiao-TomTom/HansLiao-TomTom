@@ -1,7 +1,7 @@
 ### My ```P```s
 All my favourite languages start with ```P```s.
 - ```perl``` (yes, those were dark days).
-- ```PHP``` (yes, those were very dark days).
+- ```php``` (yes, those were very dark days).
 - ```python```.
 
 ### More ```P```s
