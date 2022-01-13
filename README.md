@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @HansLiao-TomTom
-- 👀 I’m interested in **python**.
-- 🌱 I’m currently learning *Azure automation and integration*.
-- 💞️ I’m looking to collaborate on, I don't know. 
-- 📫 How to reach me: here.
+### My ```P```s
+All my favourite languages start with ```P```s.
+- ```perl``` (yes, those were dark days).
+- ```PHP``` (yes, those were very dark days).
+- ```python```.
 
-<!---
-HansLiao-TomTom/HansLiao-TomTom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### More ```P```s
+I was lucky to start by the end of ```2.7```, so I actually started with ```3.6```.
+For the experienced python users I'm a naive summer child.
+
+My favourite animal is the ```penguin```. Another one that starts with a ```P```.
+I was a former Linux user turned Apple user.
+
+My favourite car is the **Peugeot 206**, and my favourite character / cloth from the
+_Saint Seiya_ manga is **Poseidon**.
+
+### Enough with the ```P```s
+I do a bit of ```bash``` as well. It is still my current shell of choice.
